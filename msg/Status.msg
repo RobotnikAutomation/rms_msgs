@@ -1,0 +1,4 @@
+bool is_battery_low
+bool is_charging
+string operation_state
+string control_state

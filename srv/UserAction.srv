@@ -1,0 +1,9 @@
+string ACTION_CANCEL=Cancel
+string ACTION_RESUME=Resume
+string ACTION_EMPTY_QUEUE=EmptyQueue
+string ACTION_DELETE_MISSION=DeleteMission
+string action
+int32 id
+---
+bool success
+string message

@@ -1,0 +1,4 @@
+---
+Target[] targets
+bool success
+string message

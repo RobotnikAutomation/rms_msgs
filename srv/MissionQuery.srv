@@ -1,0 +1,6 @@
+Mission query
+int32 max_records
+---
+Mission[] result
+bool success
+string message

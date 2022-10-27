@@ -1,0 +1,12 @@
+string STATUS_IDLE=Idle
+string STATUS_PRECHECK=Precheck
+string STATUS_IN_MISSION=In_mission
+string STATUS_ERROR=Error
+string STATUS_CANCEL=Cancel
+string STATUS_EMERGENCY=Emergency
+string STATUS_UNKNOWN=Unknown
+string status
+string previus_status
+string message
+Mission[] queue
+Mission executing
