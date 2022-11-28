@@ -14,7 +14,6 @@ find_package(catkin REQUIRED COMPONENTS actionlib_msgs std_msgs geometry_msgs me
 ## Generate messages in the 'msg' folder
 add_message_files(DIRECTORY msg
     FILES
-    Logger.msg
     Mission.msg
     State.msg
     Status.msg
@@ -25,7 +24,6 @@ add_message_files(DIRECTORY msg
 add_service_files(
     DIRECTORY srv
     FILES
-    LoggerQuery.srv
     MissionQuery.srv
     AddRMSMission.srv
     TargetsQuery.srv
